@@ -135,34 +135,15 @@ Some areas I explore:
 
 ## 📊 GitHub Stats
 
-<br>
-
 <div align="center">
 
-  <img
-    width="390"
-    src="https://github-readme-stats.vercel.app/api?username=yunseongkim1009&theme=transparent&show_icons=true&rank_icon=github&locale=en"
-    alt="Yunseong Kim's GitHub Stats"
-  />
-
-  <img
-    width="390"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=yunseongkim1009&theme=transparent&border_radius=10&locale=en"
-    alt="Yunseong Kim's GitHub Streak"
-  />
-
-  <br><br>
-
-  <img
-    width="325"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=yunseongkim1009&theme=transparent&layout=donut&langs_count=8&border_radius=10&locale=en"
-    alt="Yunseong Kim's Most Used Languages"
-  />
+<img
+  width="500"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=yunseongkim1009&theme=transparent&border_radius=10&locale=en"
+  alt="Yunseong Kim's GitHub Streak"
+/>
 
 </div>
-
-<br>
-
 ---
 
 ## 🐍 My Contributions
