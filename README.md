@@ -134,7 +134,7 @@ Some areas I explore:
     srcset="https://raw.githubusercontent.com/yunseongkim1009/yunseongkim1009/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution snake"
+    alt="GitHub contribution snake"
     src="https://raw.githubusercontent.com/yunseongkim1009/yunseongkim1009/output/github-contribution-grid-snake.svg"
   />
 </picture>
