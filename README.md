@@ -34,6 +34,39 @@
 
 ---
 
+## ⚡ Currently
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🔨 Building
+Projects at the intersection of  
+**technology & real-world problems**
+
+</td>
+
+<td align="center" width="33%">
+
+### 📖 Learning
+**Economics • AI • Web Development**
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔬 Exploring
+**Markets • Policy • Sustainability**
+
+</td>
+</tr>
+</table>
+
+</div>
+---
+
 ## 🛠️ Languages & Tools
 
 <div align="center">
