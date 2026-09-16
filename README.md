@@ -43,7 +43,7 @@
 <td align="center" width="33%">
 
 ### 🔨 Building
-Projects at the intersection of  
+Random projects that I indulge myself into that involve
 **technology & real-world problems**
 
 </td>
@@ -65,7 +65,7 @@ Projects at the intersection of
 </table>
 
 </div>
----
+
 
 ## 🛠️ Languages & Tools
 
@@ -129,7 +129,7 @@ A web platform making Jeju's festivals and cultural events easier to discover, e
 
 <br>
 
-I am particularly interested in the intersection of **economics, technology, and real-world social issues**.
+I am  interested in studying **economics, technology, and real-world social issues**. Although, I have to admit, it isn't going as good as I planned :(
 
 Some areas I explore:
 
