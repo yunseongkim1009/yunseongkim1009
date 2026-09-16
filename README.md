@@ -72,12 +72,52 @@ I explore questions at the intersection of **economics, policy, and real-world s
 - AI and employment
 
 ---
-
 ## 📚 Interests
 
-```text
-Economics          ████████████████████
-Technology         ██████████████████
-Entrepreneurship   █████████████████
-Sustainability     ████████████████
-Research           ██████████████████
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="200">
+
+### 📈
+**Economics**
+
+</td>
+<td align="center" width="200">
+
+### 💻
+**Technology**
+
+</td>
+<td align="center" width="200">
+
+### 🚀
+**Entrepreneurship**
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="200">
+
+### 🌱
+**Sustainability**
+
+</td>
+<td align="center" width="200">
+
+### 🔎
+**Research**
+
+</td>
+<td align="center" width="200">
+
+### 🌏
+**Social Impact**
+
+</td>
+</tr>
+</table>
+
+</div>
