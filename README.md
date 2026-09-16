@@ -108,16 +108,9 @@ Some areas I explore:
 
 <div align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=yunseongkim1009&theme=transparent&show_icons=true&rank_icon=github&locale=en" />
-
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=yunseongkim1009&theme=transparent&border_radius=10&locale=en" />
-
-<br><br>
-
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunseongkim1009&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yunseongkim1009&theme=transparent&border_radius=10" alt="GitHub Streak" />
 
 </div>
-
 ---
 
 ## 🐍 My Contributions
@@ -141,15 +134,6 @@ Some areas I explore:
 
 </div>
 
----
-
-## 🎬
-
-<div align="center">
-
-<img src="./assets/banner.gif" width="800" alt="Animated banner" />
-
-</div>
 
 ---
 
