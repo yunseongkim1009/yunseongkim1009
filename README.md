@@ -10,9 +10,9 @@
 
 ### Student • Builder • Economics & Technology
 
-I'm interested in the intersection of **economics, technology, sustainability, and social impact**.
+I'm interested in the intersection of **economics, technology, and sustainability**.
 
-I enjoy turning ideas into projects — from web apps and AI-powered platforms to research and data-driven solutions.
+🌐 Check out my [portfolio](https://yunseong-kim.vercel.app/)
 
 </div>
 
