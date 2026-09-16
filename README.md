@@ -134,9 +134,6 @@ Some areas I explore:
 
 </div>
 
-
----
-
 <div align="center">
 
 🌐 <a href="https://yunseong-kim.vercel.app/">Portfolio</a>
