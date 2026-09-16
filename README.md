@@ -112,6 +112,7 @@ Some areas I explore:
 
 </div>
 
+---
 
 ## 🐍 My Contributions
 
@@ -132,6 +133,10 @@ Some areas I explore:
   />
 </picture>
 
+</div>
+
+---
+
 <div align="center">
 
 ### 🌐 Let's Connect
@@ -150,7 +155,7 @@ Some areas I explore:
 
 <sub>Explore my projects, experiments, and things I'm building.</sub>
 
-</div>
+<br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=18&center=true&vCenter=true&width=500&height=35&duration=3000&pause=1000&lines=Thanks+for+visiting!+👋;Always+building%2C+learning%2C+and+exploring." />
 
