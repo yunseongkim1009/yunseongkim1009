@@ -1,41 +1,28 @@
-<!-- ===================================================== -->
-<!--                     HERO BANNER                       -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Yunseong Kim Banner">
-
-<br>
-
-<img src="https://view-counter.tobyhagan.com/?user=yunseongkim1009" alt="Profile Views">
-
-<br><br>
-
-# Hi, I'm Yunseong Kim 👋
-
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=2200&pause=700&color=4493F8&center=true&vCenter=true&width=700&height=55&lines=Economics+%C3%97+Technology;Code+%C3%97+Ideas;Research+%C3%97+Innovation;Building+for+real-world+impact."
-  alt="Typing Animation"
-/>
-
-<br>
-
-**Student • Builder • Economics & Technology**
-
-<br>
-
-I'm interested in the intersection of **economics, technology, and sustainability**.
+<img src="./assets/banner.png" width="100%" alt="Yunseong Kim banner">
 
 </div>
 
 <br>
 
----
+<div align="center">
 
-<!-- ===================================================== -->
-<!--                    CURRENT WORK                       -->
-<!-- ===================================================== -->
+<img src="https://view-counter.tobyhagan.com/?user=yunseongkim1009" alt="Profile Views" />
+
+<br><br>
+
+# I'm Yunseong Kim 👋
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=700&height=50&duration=3500&pause=800&lines=Economics+%2B+Technology;Building+projects+with+real-world+impact;Student+%7C+Builder+%7C+Researcher;Exploring+business%2C+innovation%2C+and+sustainability" />
+
+<br>
+
+🌐 <a href="https://yunseong-kim.vercel.app/">My Portfolio</a>
+
+</div>
+
+---
 
 ## 🚀 What I'm Working On
 
@@ -45,49 +32,21 @@ I'm interested in the intersection of **economics, technology, and sustainabilit
 - 📊 Researching **economics, markets, inequality, and public policy**
 - 🌏 Exploring how technology can address **environmental and social challenges**
 
-<br>
-
 ---
-
-<!-- ===================================================== -->
-<!--                   LANGUAGES / TOOLS                   -->
-<!-- ===================================================== -->
 
 ## 🛠️ Languages & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nextjs,tailwind" alt="Languages and Frameworks">
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,tailwind,git,github,vercel" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,git,github,vercel,figma,vscode" alt="Development Tools">
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,typescript,figma,vscode" />
 
 </div>
-
-<br>
 
 ---
-
-<!-- ===================================================== -->
-<!--                  PROJECTS ARTWORK                     -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-<img
-  src="./assets/projects-header.png"
-  width="100%"
-  alt="Projects"
-/>
-
-</div>
-
-<br>
-
-<!-- ===================================================== -->
-<!--                  FEATURED PROJECTS                    -->
-<!-- ===================================================== -->
 
 ## 💻 Featured Projects
 
@@ -104,8 +63,6 @@ I'm interested in the intersection of **economics, technology, and sustainabilit
 
 A platform connecting businesses that generate food waste with facilities that can reuse or process it.
 
-<br>
-
 `AI` `Sustainability` `B2B` `Marketplace`
 
 </td>
@@ -118,8 +75,6 @@ A platform connecting businesses that generate food waste with facilities that c
 
 A web platform making Jeju's festivals and cultural events easier to discover, especially for international visitors.
 
-<br>
-
 `React` `Tailwind CSS` `Vercel`
 
 </td>
@@ -129,172 +84,73 @@ A web platform making Jeju's festivals and cultural events easier to discover, e
 
 </div>
 
-<br>
-
-<!-- ===================================================== -->
-<!--                 DECORATIVE DIVIDER                    -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-<img
-  src="./assets/section-divider.png"
-  width="85%"
-  alt=""
-/>
-
-</div>
-
-<br>
-
-<!-- ===================================================== -->
-<!--                      INTERESTS                        -->
-<!-- ===================================================== -->
+---
 
 ## 📚 Interests
 
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=1800&pause=500&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=%24+explore+economics;%24+build+with+technology;%24+research+real-world+problems;%24+think+about+sustainability;%24+create+something+useful"
-  alt="Interests Animation"
-/>
-
-<br>
-
-`📈 Economics`
-&nbsp;
-`💻 Technology`
-&nbsp;
-`🚀 Entrepreneurship`
-
-<br><br>
-
-`🌱 Sustainability`
-&nbsp;
-`🔎 Research`
-&nbsp;
-`🌏 Social Impact`
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=22&center=true&vCenter=true&width=650&height=45&duration=2200&pause=900&lines=📈+Economics;💻+Technology;🚀+Entrepreneurship;🌱+Sustainability;🔎+Research;🌏+Social+Impact" />
 
 </div>
 
 <br>
 
-I'm particularly interested in the intersection of **economics, technology, and real-world social issues**.
+I am particularly interested in the intersection of **economics, technology, and real-world social issues**.
 
 Some areas I explore:
 
 `Economics` `Markets` `Inequality` `Technology` `AI` `Sustainability` `Public Policy`
 
-<br>
-
 ---
-
-<!-- ===================================================== -->
-<!--                     GITHUB STATS                      -->
-<!-- ===================================================== -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=yunseongkim1009&theme=transparent&border_radius=10"
-  alt="GitHub Streak"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yunseongkim1009&theme=transparent&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
-<br>
-
 ---
-
-<!-- ===================================================== -->
-<!--                  CONTRIBUTION SNAKE                   -->
-<!-- ===================================================== -->
 
 ## 🐍 My Contributions
 
 <div align="center">
 
 <picture>
-
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/yunseongkim1009/yunseongkim1009/output/github-contribution-grid-snake-dark.svg"
   />
-
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/yunseongkim1009/yunseongkim1009/output/github-contribution-grid-snake.svg"
   />
-
   <img
-    alt="GitHub Contribution Snake"
+    alt="GitHub contribution snake"
     src="https://raw.githubusercontent.com/yunseongkim1009/yunseongkim1009/output/github-contribution-grid-snake.svg"
   />
-
 </picture>
 
 </div>
 
-<br>
-
 ---
 
-<!-- ===================================================== -->
-<!--                      CONNECT                         -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-## 🌐 Let's Connect
+### 🌐 Let's Connect
 
 <a href="https://yunseong-kim.vercel.app/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Portfolio-Visit_My_Website-238636?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Portfolio"
-  >
+  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-
 &nbsp;
-
 <a href="https://github.com/yunseongkim1009" target="_blank">
-  <img
-    src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  >
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br><br>
 
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=4493F8&center=true&vCenter=true&width=650&height=45&lines=%3E+exploring+economics+%C3%97+technology;%3E+building+something+new...;%3E+learning+something+new...;%3E+see+you+around+%F0%9F%91%8B"
-  alt="Terminal Animation"
-/>
-
-<br>
-
-<sub>Economics × Technology × Sustainability</sub>
-
-<br><br>
-
-**Thanks for visiting! 🚀**
-
-</div>
-
-<br>
-
-<!-- ===================================================== -->
-<!--                    FOOTER ARTWORK                     -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-<img
-  src="./assets/footer.png"
-  width="100%"
-  alt="Yunseong Kim Footer"
-/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=18&center=true&vCenter=true&width=500&height=35&duration=3000&pause=1000&lines=Thanks+for+visiting!+👋;Always+building%2C+learning%2C+and+exploring." />
 
 </div>
