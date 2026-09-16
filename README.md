@@ -141,8 +141,6 @@ Some areas I explore:
 
 ### 🌐 Let's Connect
 
-<br>
-
 <a href="https://yunseong-kim.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
@@ -153,10 +151,14 @@ Some areas I explore:
 
 <br><br>
 
-<sub>Explore my projects, experiments, and things I'm building.</sub>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=4493F8&center=true&vCenter=true&width=650&height=45&lines=%3E+exploring+economics+%C3%97+technology;%3E+building+something+new...;%3E+learning+something+new...;%3E+see+you+around+%F0%9F%91%8B" alt="Terminal animation" />
+
+<br>
+
+<sub>Economics × Technology × Sustainability</sub>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=18&center=true&vCenter=true&width=500&height=35&duration=3000&pause=1000&lines=Thanks+for+visiting!+👋;Always+building%2C+learning%2C+and+exploring." />
+<b>Thanks for visiting.</b> 🚀
 
 </div>
