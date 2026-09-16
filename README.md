@@ -39,7 +39,7 @@
 <td align="center" width="33%">
 
 ### 🔨 Building
-Random projects that I indulge myself into that involve
+Random projects --> 
 **technology & real-world problems**
 
 </td>
