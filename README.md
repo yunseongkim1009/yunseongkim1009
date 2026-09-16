@@ -132,15 +132,25 @@ Some areas I explore:
   />
 </picture>
 
-</div>
-
 <div align="center">
 
-🌐 <a href="https://yunseong-kim.vercel.app/">Portfolio</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-🐙 <a href="https://github.com/yunseongkim1009">GitHub</a>
+### 🌐 Let's Connect
+
+<br>
+
+<a href="https://yunseong-kim.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://github.com/yunseongkim1009" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 <br><br>
+
+<sub>Explore my projects, experiments, and things I'm building.</sub>
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=18&center=true&vCenter=true&width=500&height=35&duration=3000&pause=1000&lines=Thanks+for+visiting!+👋;Always+building%2C+learning%2C+and+exploring." />
 
