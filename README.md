@@ -2,8 +2,6 @@
 
 <img src="https://view-counter.tobyhagan.com/?user=yunseongkim1009" alt="Profile Views" />
 
-<h1>I'm Yunseong Kim 👋</h1>
-
 </div>
 
 <div align="center">
