@@ -26,13 +26,9 @@
 
 ## 🚀 What I'm Working On
 
-- 🌱 Building projects that connect **technology with real-world problems**
-- 💡 Exploring **economics, business, and public policy**
-- 💻 Learning and building with **Python, JavaScript, React, and web technologies**
-- 📊 Researching **economics, markets, inequality, and public policy**
-- 🌏 Exploring how technology can address **environmental and social challenges**
-
----
+- 🌱 Building projects that are linked with **technology with real-world problems**
+- 💡 Researching **economics and business**
+- 📊 Currently *fighting for my life* against an endless barrage of tests and homework
 
 ## ⚡ Currently
 
