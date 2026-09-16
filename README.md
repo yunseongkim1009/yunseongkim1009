@@ -1,5 +1,13 @@
 <div align="center">
 
+<img src="./assets/banner.png" width="100%" alt="Yunseong Kim banner">
+
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="https://view-counter.tobyhagan.com/?user=yunseongkim1009" alt="Profile Views" />
 
 <br><br>
